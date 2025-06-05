@@ -1,6 +1,6 @@
 <h1>Hi, I'm Edwin! <br/><a href="https://github.com/ezamora0646">UCLA Ph.D Student, <a href="https://www.linkedin.com/in/edwin-zamora-/"> Researcher & Rising Data Analyst</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Analysis Portfolio:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
