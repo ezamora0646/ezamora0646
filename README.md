@@ -7,8 +7,6 @@
   - [Logistic Regression in R](https://github.com/ezamora0646/ECLSK-11)
 - <b>Marketing Campaign Optimization (Microsoft Excel, Tableau)</b>
   - [Audience & Creative Sizing Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
-  <h3>Personal Projects</h3>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
