@@ -2,7 +2,6 @@
 
 <h2>👨‍💻 Data Analysis Portfolio</h2>
 
-<h3>Stakeholder Projects</h3>
 - <b>Key Predictors of Student Outcomes (Moderation Analysis)</b>
   - [Logistic Regression in R](https://github.com/ezamora0646/ECLSK-11)
 - <b>Marketing Campaign Optimization (Microsoft Excel, Tableau)</b>
