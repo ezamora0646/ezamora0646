@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Researcher | Data Analyst | Ph.D Student</a>, <a href="https://www.linkedin.com/in/edwin-zamora-/"
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Researcher | Data Analyst | Ph.D Student</a>, <a href="https://www.linkedin.com/in/edwin-zamora-/" a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
