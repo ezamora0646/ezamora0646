@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edwin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/edwin-zamora-/">Ph.D. Student</a>
+<h1>Hi, I'm Edwin! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/edwin-zamora-/">Ph.D. Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
