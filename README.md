@@ -3,11 +3,12 @@
 <h2>👨‍💻 Data Analysis Portfolio</h2>
 <h3>Stakeholder Projects</h3>
 
-- <b>Key Predictors of Latino Student Outcomes (Moderation Analysis)</b>
-  - [Logistic Regression of Federal Data in R](https://github.com/ezamora0646/ECLSK-11)
+- <b>Key Predictors of Latino Student Outcomes (R)</b>
+  - [Logistic Regression of Federal Data](https://github.com/ezamora0646/ECLSK-11)
 - <b>COOP Careers Capstone (Microsoft Excel, Tableau)</b>
   - [Marketing Campaign Optimization]()
-- ACCO Engineered Systems: Learning Management System (Microsoft Excel, Python, Tableau)
+- ACCO Engineered Systems (Microsoft Excel, Python, Tableau)
+  - [Learning Management System Data]()
 
 <h3>Personal Projects</h3>
 
