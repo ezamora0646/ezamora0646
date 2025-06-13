@@ -8,7 +8,7 @@
 - <b>COOP Careers Capstone (Microsoft Excel, Tableau)</b>
   - [Marketing Campaign Optimization]()
 - ACCO Engineered Systems (Microsoft Excel, Python, Tableau)
-  - [Learning Management System Data]()
+  - [Learning Management System Data](https://github.com/ezamora0646/LMS-Data)
 
 <h3>Personal Projects</h3>
 
