@@ -6,7 +6,7 @@
 - <b>Key Predictors of Latino Student Outcomes (R)</b>
   - [Logistic Regression of Federal Data](https://github.com/ezamora0646/ECLSK-11)
 - <b>COOP Careers Capstone (Microsoft Excel, Tableau)</b>
-  - [Marketing Campaign Optimization]()
+  - [Marketing Campaign Optimization](https://github.com/ezamora0646/Marketing-Capstone)
 - ACCO Engineered Systems (Microsoft Excel, Python, Tableau)
   - [Learning Management System Data](https://github.com/ezamora0646/LMS-Data)
 
