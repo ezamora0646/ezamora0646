@@ -7,6 +7,7 @@
   - [Marketing Campaign Optimization](https://github.com/ezamora0646/Marketing-Capstone)
 - <b>ACCO Engineered Systems (Microsoft Excel, Python, Tableau)</b>
   - [Learning Management System Data](https://github.com/ezamora0646/LMS-Data)
+  - [Tableau Dashboard](https://public.tableau.com/app/profile/edwin.zamora/viz/LMSEngagement/LMSEngagementInsights?publish=yes)
 - <b>Key Predictors of Latino Student Outcomes (R)</b>
   - [Logistic Regression of Federal Data](https://github.com/ezamora0646/ECLSK-11)
 
