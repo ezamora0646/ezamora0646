@@ -13,7 +13,8 @@
 
 <h3>Personal Projects</h3>
 
-- <b>SQL (Coming Soon...)<b>
+- B2B Sales 
+  - <b>SQL + Python (Coming Soon...)<b>
 
 <h2> 🤳 Connect with me:</h2>
 
