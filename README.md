@@ -13,7 +13,7 @@
 
 <h3>Personal Projects</h3>
 
-- <b>SQL<b>\
+- <b>SQL (Coming Soon...)<b>
 
 <h2> 🤳 Connect with me:</h2>
 
